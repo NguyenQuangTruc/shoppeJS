@@ -1,0 +1,8 @@
+.bg-header {
+    /* background-color: #f53d2d; */
+    background-image: linear-gradient(to bottom, #f53d2d, #ff6633);
+}
+
+.text-13px {
+    font-size: 13px;
+}
